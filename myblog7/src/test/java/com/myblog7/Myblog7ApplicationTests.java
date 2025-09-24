@@ -8,6 +8,7 @@ class Myblog7ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		char='a';
 	}
 
 }
