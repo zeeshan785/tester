@@ -9,6 +9,7 @@ class Myblog7ApplicationTests {
 	@Test
 	void contextLoads() {
 		char ch ='a';
+                float f = 10.5;
 	}
 
 }
