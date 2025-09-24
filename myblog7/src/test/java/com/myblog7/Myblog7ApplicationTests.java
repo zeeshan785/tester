@@ -9,10 +9,9 @@ class Myblog7ApplicationTests {
 	@Test
 	void contextLoads() {
 		char ch ='a';
-        boolean isSub = true;
-        float f = 10.5;
+    boolean isSub = true;
+    float f = 10.5;
 		int i = 10;
-		
 	}
 
 }
