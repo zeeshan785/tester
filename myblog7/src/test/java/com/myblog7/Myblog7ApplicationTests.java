@@ -11,7 +11,6 @@ class Myblog7ApplicationTests {
 		char ch ='a';
         boolean isSub = true;
         float f = 10.5;
-		string s = "alam";
 	}
 
 }
